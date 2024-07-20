@@ -17,7 +17,7 @@ export function App(){
     //     .catch(err => console.error(err))
     // }
     return (
-        <main className="container">
+        <body className="container">
             <h1>Busqueda de pais</h1>
             <div className="header">
                 <label>
@@ -33,7 +33,7 @@ export function App(){
                 )}
             </div>
 
-        </main>
+        </body>
 
         
 
